@@ -1,0 +1,14 @@
+[2025-03-02 18:57:33] Error: Undefined global variable $_SESSION in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 18:57:33] Error: Trying to access array offset on value of type null in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 18:57:33] Error: Trying to access array offset on value of type null in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 18:57:57] Error: session_start(): Ignoring session_start() because a session is already active in C:\xampp2\htdocs\book_management_test\common\auth_check.php on line 2
+[2025-03-02 18:58:10] Error: session_start(): Ignoring session_start() because a session is already active in C:\xampp2\htdocs\book_management_test\common\auth_check.php on line 2
+[2025-03-02 18:58:47] Error: Undefined global variable $_SESSION in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 18:58:47] Error: Trying to access array offset on value of type null in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 18:58:47] Error: Trying to access array offset on value of type null in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 19:00:16] Error: Undefined global variable $_SESSION in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 19:00:16] Error: Trying to access array offset on value of type null in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 19:00:16] Error: Trying to access array offset on value of type null in C:\xampp2\htdocs\book_management_test\common\nav.php on line 12
+[2025-03-02 21:20:45] Error: Undefined variable $page in C:\xampp2\htdocs\book_management_test\pages\delete_book.php on line 8
+[2025-03-02 21:32:23] Error: Undefined variable $page in C:\xampp2\htdocs\book_management_test\pages\delete_book.php on line 8
+[2025-03-02 21:32:37] Error: Undefined variable $page in C:\xampp2\htdocs\book_management_test\pages\delete_book.php on line 8
